@@ -65,6 +65,17 @@
         color: white;
     }
 
+    .signature {
+        color: white;
+        text-align: center;
+        margin: 20px;
+    }
+
+    .signature a {
+        text-decoration: none;
+        color: white;
+    }
+
     </style>
     <body>
         <div id="app">
