@@ -96,6 +96,7 @@
                     </div>
                     <button type="submit"> Submit</button>
                 </form>
+                <p class="signature">Made by: <a href="https://github.com/lvisentin">lvisentin</a></p>
             </div>
         </div>
         <script src="https://cdn.jsdelivr.net/npm/vue@2/dist/vue.js"></script>
